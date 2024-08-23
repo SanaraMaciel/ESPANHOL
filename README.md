@@ -1,13 +1,12 @@
 <H1>Curso de Espanhol do módulo Básico até o módulo intermediário nível B1 e B2</H1>
 
 <h2> ## 📋 Conteúdos Incluídos</h2>
-* **Um desenvolvedor**
-* Vocabulário Básico: Lista de palavras e expressões essenciais para iniciantes.
-* Gramática: Explicações detalhadas das principais regras gramaticais dos níveis A1-B2.
-* Exercícios Práticos: Atividades interativas para reforçar o aprendizado.
-* Textos de Leitura: Textos adaptados para os níveis B1 e B2, com questões de compreensão.
-* Áudios e Vídeos: Recursos multimídia para melhorar a compreensão auditiva.
-* Expressões Idiomáticas: Lista de expressões comuns no espanhol falado.
+*<p>Vocabulário Básico: Lista de palavras e expressões essenciais para iniciantes. </p> 
+* <p>Gramática: Explicações detalhadas das principais regras gramaticais dos níveis A1-B2. </p>
+* <p>Exercícios Práticos: Atividades interativas para reforçar o aprendizado.</p> 
+* <p>Textos de Leitura: Textos adaptados para os níveis B1 e B2, com questões de compreensão. </p> 
+* <p>Áudios e Vídeos: Recursos multimídia para melhorar a compreensão auditiva. </p>
+* <p>Expressões Idiomáticas: Lista de expressões comuns no espanhol falado.</p>
 
 <h2> ## 📚 Estrutura do Projeto:</h2>
 
