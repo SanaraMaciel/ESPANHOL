@@ -28,11 +28,11 @@ O projeto é dividido em pastas que correspondem aos diferentes níveis e áreas
 └── README.md
 
 <h2>## Descrição das Pastas</h2>
-1. vocabulario: Listas de palavras organizadas por tema (ex.: comidas, viagens, trabalho).
-2. gramatica: Explicações gramaticais com exemplos práticos.
-3. ejercicios: Exercícios com respostas para prática autônoma.
-4. textos_de_lectura: Textos de leitura acompanhados de perguntas de compreensão.
-5. audios_y_videos: Arquivos de áudio e links para vídeos educativos.
-6. expresiones_idiomaticas: Expressões idiomáticas e exemplos de uso.
+<p>1. vocabulario: Listas de palavras organizadas por tema (ex.: comidas, viagens, trabalho). </p> 
+<p>2. gramatica: Explicações gramaticais com exemplos práticos.</p> 
+<p>3. ejercicios: Exercícios com respostas para prática autônoma.</p> 
+<p>4. textos_de_lectura: Textos de leitura acompanhados de perguntas de compreensão.</p> 
+<p>5. audios_y_videos: Arquivos de áudio e links para vídeos educativos.</p> 
+<p>6. expresiones_idiomaticas: Expressões idiomáticas e exemplos de uso.</p> 
 
 ## portal com o material dos cursos antigos: https://idiomas.ava.ifsuldeminas.edu.br/course/view.php?id=27&section=6
